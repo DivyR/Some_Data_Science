@@ -1,0 +1,3 @@
+# development environment specific #
+.vscode
+venv
