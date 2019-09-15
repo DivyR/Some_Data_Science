@@ -1,3 +1,6 @@
-# development environment specific #
+# development specific #
 .vscode
 venv
+
+# other #
+__pycache__
