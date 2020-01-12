@@ -1,6 +1,5 @@
 # development specific #
 .vscode
-venv
 
 # other #
 __pycache__
